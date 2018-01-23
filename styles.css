@@ -1,0 +1,20 @@
+.navbar-dark .navbar-brand {
+    color: #4456bb;
+}
+
+.jumbotron img {
+  height: 250px
+}
+
+.jumbotron {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.jumbotron h1 {
+  color: white;
+}
+
+.display-4 {
+  font-family: 'Archivo Black', sans-serif;
+}
